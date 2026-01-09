@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "okgEJ7E7bVA=",
+  "success": true,
+  "projectFilePath": "/home/amaand/ECPI/1.4/1.4.csproj",
+  "expectedPackageFiles": [
+    "/home/amaand/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

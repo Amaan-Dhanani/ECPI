@@ -1,0 +1,14 @@
+/home/amaand/ECPI/1.4/bin/Debug/net10.0/1.4
+/home/amaand/ECPI/1.4/bin/Debug/net10.0/1.4.deps.json
+/home/amaand/ECPI/1.4/bin/Debug/net10.0/1.4.runtimeconfig.json
+/home/amaand/ECPI/1.4/bin/Debug/net10.0/1.4.dll
+/home/amaand/ECPI/1.4/bin/Debug/net10.0/1.4.pdb
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.GeneratedMSBuildEditorConfig.editorconfig
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.AssemblyInfoInputs.cache
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.AssemblyInfo.cs
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.csproj.CoreCompileInputs.cache
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.dll
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/refint/1.4.dll
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.pdb
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/1.4.genruntimeconfig.cache
+/home/amaand/ECPI/1.4/obj/Debug/net10.0/ref/1.4.dll
